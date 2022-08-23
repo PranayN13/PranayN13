@@ -1,3 +1,8 @@
+<h1>
+ <p align="center">
+ Hey, Pranay this side🙋‍♂️
+</p>
+</h1>
 # 💫 About Me:
 🔭 I’m currently working on My problem-solving skills.<br>👯 I’m looking to collaborate on Python Projects.<br>🌱 I’m currently improving my technical skills.<br>💬 Ask me about Ideas.<br>
 
